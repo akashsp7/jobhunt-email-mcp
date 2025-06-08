@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "jobhunt-email-intelligence": {
+      "command": "python3",
+      "args": ["/path/to/your/project/main.py"],
+      "env": {
+        "PATH": "/path/to/your/python/env/bin:/usr/local/bin:/usr/bin:/bin"
+      }
+    }
+  }
+}
